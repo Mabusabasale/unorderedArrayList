@@ -1,3 +1,4 @@
+//Functions to be used on linked list implementation
 
 #include "StdAfx.h"
 #include <iostream>
